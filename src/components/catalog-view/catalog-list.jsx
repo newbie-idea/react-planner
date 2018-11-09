@@ -9,7 +9,6 @@ import ContentTitle from '../style/content-title';
 import * as SharedStyle from '../../shared-style';
 
 const containerStyle = {
-  position: 'fixed',
   width:'calc( 100% - 51px)',
   height:'calc( 100% - 20px)',
   backgroundColor:'#FFF',
